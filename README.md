@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ZacharyB2
+- 👀 I’m interested in Sports
+- 🌱 I’m currently learning the field of data science and statistics through the University of Illinois Urbana-Champaign
